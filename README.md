@@ -18,27 +18,22 @@
 
 ### 用户电脑端 UI
 
-![用户电脑端UI](./assets/user-pc-ui.png)
+![用户电脑端UI](https://github.com/user-attachments/assets/c38c9dd9-887d-4b45-937e-4b6b7d160020)
 
 ---
 
 ### 用户手机端首页
 
-![用户手机端首页](./assets/user-mobile-home.png)
+![用户手机端首页](https://github.com/user-attachments/assets/02fcbbb5-a213-4359-97f0-1a55eb6f3557)
 
 ---
 
 ### 用户手机端 UI
 
-![用户手机端UI](./assets/user-mobile-ui.png)
+![用户手机端UI](https://github.com/user-attachments/assets/7bd484f2-b876-4647-9a22-712342031711)
 
 ---
 
-### 页面整体 UI
-
-![页面整体UI](./assets/page-ui.png)
-
----
 
 ## 项目简介
 
