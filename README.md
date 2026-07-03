@@ -12,8 +12,7 @@
 
 ### 用户 PC 端首页
 
-![用户PC端首页](<img width="2531" height="1168" alt="image" src="https://github.com/user-attachments/assets/027da920-2483-46f0-a2a7-2b7f76185112" />
-)
+![用户PC端首页](https://github.com/user-attachments/assets/027da920-2483-46f0-a2a7-2b7f76185112)
 
 ---
 
