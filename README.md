@@ -2,7 +2,42 @@
 
 > i0vo 寄售平台是一套面向虚拟商品、数字商品及自定义商品场景的寄售服务系统。  
 > 平台主要提供商品寄售、信息展示、订单管理、用户管理、资金结算、公告配置等功能，适合用于轻量化寄售平台搭建、私有化部署及二次开发。
-![Uploading image.png…]()
+
+---
+
+## 页面 UI 展示
+
+> 以下图片仅用于展示平台页面效果，实际页面以部署版本为准。  
+> 建议将图片上传到项目 `assets` 目录后，在 README 中使用相对路径引用。
+
+### 用户 PC 端首页
+
+![用户PC端首页](<img width="2531" height="1168" alt="image" src="https://github.com/user-attachments/assets/027da920-2483-46f0-a2a7-2b7f76185112" />
+)
+
+---
+
+### 用户电脑端 UI
+
+![用户电脑端UI](./assets/user-pc-ui.png)
+
+---
+
+### 用户手机端首页
+
+![用户手机端首页](./assets/user-mobile-home.png)
+
+---
+
+### 用户手机端 UI
+
+![用户手机端UI](./assets/user-mobile-ui.png)
+
+---
+
+### 页面整体 UI
+
+![页面整体UI](./assets/page-ui.png)
 
 ---
 
